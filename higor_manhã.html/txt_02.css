@@ -1,0 +1,8 @@
+html{
+    font-family: 'Courier New', Courier, monospace;
+    color-interpolation-filters: linearRGB;
+    color: rgb(255, 255, 255);
+}
+body{
+    background-color: rgb(10, 3, 3);
+}

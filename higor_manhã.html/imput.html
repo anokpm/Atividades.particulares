@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="txt_02.css">
+    <title>exemplo_formulario</title>
+</head>
+
+<body>
+    <header>
+        <h1>Exemplo de formulario html</h1>
+        <article>
+            <form action="#">
+                <label for="cNome">Nome:</label><br>
+                <input type="text" autocomplete="off" size="15" name="tNome" required="required" id="cNome"><br>
+
+                <label for="cNome">Sobrenome:</label><br>
+                <input type="text" autocomplete="off" size="30" name="tNome" required="required" id="cNome"><br>
+                
+                <p>escolha uma cor:</p>
+                <input type="radio" name="color1" id="azul" value="c1">
+                <label for="azul">azul</label>
+                <input type="radio" name="color1" id="amarelo" value="c2">
+                <label for="amarelo">amarelo</label>
+                <input type="radio" name="color1" id="vermelho" value="c3">
+                <label for="vermelho">vermelho</label>
+                <p>qual transporte você utiliza?</p>
+                <input type="checkbox" name="transporte" id="bicicleta" value="c1">
+                <label for="bicicleta">bicicleta</label>
+                <input type="checkbox" name="transporte" id="ônibus" value="c2">
+                <label for="ônibus">ônibus</label>
+                <input type="checkbox" name="transporte" id="carro" value="c3">
+                <label for="carro">carro</label>
+                <input type="checkbox" name="transporte" id="a pé" value="c4">
+                <label for="a pé">a pé</label>
+                <p>qual jogo é melhor?</p>
+                <label for="jogos">selecione o jogo</label>
+                <select name="jogoes" id="jogos">
+                    <option value="#">selecione</option>
+                    <option value="cod">cod</option>
+                    <option value="pokemon">pokemon</option>
+                    <option value="Valorant">valorant</option>
+                    <option value="LOL">LOL</option>
+                </select><br>
+                <br>
+                <label for="cCid">escolha sua cidade na lista:</label>
+                <input autocomplete="on" list="cidade" name="tCid" id="cCid" placeholder="sua cidade"/>
+                <datalist id="cidade">
+                    <option value="são paulo"></option>
+                    <option value="campinas"></option>
+                </datalist><br>
+                <input type="submit">
+            </form>
+        </article>
+    </header>
+</body>
+
+</html>

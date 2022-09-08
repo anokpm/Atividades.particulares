@@ -1,0 +1,43 @@
+Elementos textuais
+
+Elementos textuais em HTML
+Autor: Rafael Lopes dos Santos
+
+Elemento abbr:
+HTML
+
+Elemento dfn:
+O HTML é uma linguagem de marcação padrão para criar páginas web.
+
+Elementos kbd e q:
+No Windows, o atalho Ctrl + C copia o texto.
+No MAC, o atalho Cmd + C copia o texto.
+
+Elementos mark e data:
+Os produtos estão associados o seu nome ao número do produto
+Tomate Cereja
+Tomate Caqui
+Tomate Italiano
+
+Elemento samp:
+Mensagem do meu computador
+Arquivo não encontrado. Pressicione F1 para continuar
+
+Elemento small:
+Texto normal e texto menor
+
+Elemento var:
+A área do triângulo é: 1/2 * b * h
+Onde: b é a base e h é a altura do triângulo.
+
+Elementos sup e sub:
+Exemplo de texto sobrescrito: a*x2 + b*x + c
+Exemplo de texto sobscrito: a raízes são: x1 e x2
+
+Elementos s e time:
+Estamos cortando os preços:
+De R$100,00
+Por R$ 50,00
+Estamos abertos de 10:00 as 21:00!
+
+Copyright&copy; - Todos os direitos reservados.

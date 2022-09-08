@@ -1,0 +1,7 @@
+Ignora Enter e espaços em branco extras
+ 
+Este texto será
+exibido todo na
+mesma linha.
+        
+Os     espaços extras       serão       ignorados!

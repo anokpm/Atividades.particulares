@@ -1,0 +1,26 @@
+Listas
+
+Elemento de listas ordenadas &lt;ol&gt;
+Lista numerada normal:
+
+São Paulo
+Minas Gerais
+Rio de Janeiro
+
+
+Lista numerada invertida com valor inicial 10:
+São Paulo
+Minas Gerais
+Rio de Janeiro
+
+Lista alfabética maiúscula:
+São Paulo
+Minas Gerais
+Rio de Janeiro
+
+Lista alfabética minúscula:
+São Paulo
+Minas Gerais
+Rio de Janeiro
+
+Copyright&copy; - Todos os direitos reservados.

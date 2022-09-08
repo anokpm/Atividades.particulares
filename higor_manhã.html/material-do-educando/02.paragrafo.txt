@@ -1,0 +1,5 @@
+Exemplo do elemento parágrafo em HTML
+
+Olá Mundo!!!
+Segundo Parágrafo
+Terceiro Parágrafo

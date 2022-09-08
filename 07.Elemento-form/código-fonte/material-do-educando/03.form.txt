@@ -1,0 +1,28 @@
+Forms em HTML
+
+Exemplo de formulário no HTML
+
+Nome:
+
+Você mora:
+Cidade
+Interior
+
+Qual meio de transporte você usa?
+Bicicleta
+Carro
+Metrô
+Ônibus
+
+Selecione seu time:
+
+Cruzeiro
+São Paulo
+Corinthians
+Grêmio
+Goiás
+Santos
+
+Escolha a sua Cidade na lista:
+
+Copyright&copy; - Todos os direitos reservados.

@@ -1,0 +1,10 @@
+Exemplo de footer
+
+O elemento footer
+
+Conteúdo da seção &lt;article&gt;
+
+Autor: Rafael Lopes dos Santos
+seuemail@provedor.com
+
+Copyright&copy; - Todos os direitos reservados.

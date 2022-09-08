@@ -1,0 +1,17 @@
+Exemplo de article
+
+O elemento article
+
+Google Chrome
+
+Google Chrome é um navegador web desenvolvido pela Google, lançado em 2008. O Chrome é o navegador mais popular da atualidade.
+
+Mozilla Firefox
+
+Mozilla Firefox é um navegador web open-source desenvolvido pela Mozilla. O Firefox tem sido o segundo navegador web mais popular desde janeiro, 2018.
+
+Microsoft Edge
+
+Microsoft Edge é um navegador web lançado pela Microsoft, lançado em 2015. O Microsoft Edge substituiu o Internet Explorer.
+
+Copyright&copy; - Todos os direitos reservados.

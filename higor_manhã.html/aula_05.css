@@ -1,0 +1,19 @@
+h1 {
+    font-size: large;
+    color: brown;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: aqua;
+}
+
+p {
+    font-style: oblique;
+    color: blue;
+    font-size: medium;
+    background-color: gray;
+}
+section{
+    border: 10mm;
+    font-size: x-large;
+    color: brown;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}

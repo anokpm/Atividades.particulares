@@ -1,0 +1,25 @@
+Listas
+
+Elemento de listas não ordenadas &lt;ul&gt;
+
+Bebidas preferidas:
+Café
+Chá
+Leite
+
+Cidades de São Paulo:
+São Paulo
+Santo André
+Osasco
+
+Estados do Brasil:
+São Paulo
+Minas Gerais
+Rio de Janeiro
+
+Cores primárias (luz):
+Vermelho
+Verde
+Azul
+
+Copyright&copy; - Todos os direitos reservados.

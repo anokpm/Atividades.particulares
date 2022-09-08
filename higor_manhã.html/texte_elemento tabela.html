@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Elemento table</title>
+</head>
+
+<body>
+    <header>
+        <h1>Exemplo atributo colspan</h1>
+    </header>
+    <section>
+        <table border="5">
+            <thead>
+                <tr>
+                    <!-- colspan. mesclagem orizontal -->
+                    <th colspan="2">Vendas Trimestrais</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <!-- rowspan mesclagem laateral -->
+                    <td rowspan="3">2010</td>
+                    <td>144.000</td>
+                </tr>
+                <tr>
+                    <td>179.580</td>
+                </tr>
+                <tr>
+                    <td>298.500</td>
+                </tr>
+            </tbody>
+            <tfoot>
+                <tr>
+                    <td colspan="2">no vermelho</td>
+                </tr>
+            </tfoot>
+        </table>
+    </section>
+    <footer>
+        <small>Copyright<sup>&copy;</sup> - Todos os direitos reservados.</small>
+    </footer>
+</body>
+
+</html>
